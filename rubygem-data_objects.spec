@@ -4,7 +4,7 @@
 #
 Name     : rubygem-data_objects
 Version  : 0.10.16
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/data_objects-0.10.16.gem
 Source0  : https://rubygems.org/downloads/data_objects-0.10.16.gem
 Summary  : No detailed summary available
